@@ -1,0 +1,9 @@
+#laptopCard, #mobileCard, #tabletCard, #earbudCard{
+    width:330px;
+    height:350px;
+}
+
+#laptopCard img, #mobileCard img, #tabletCard img, #earbudCard img{
+    width:100%;
+    height:70%;
+}
